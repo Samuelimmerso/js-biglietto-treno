@@ -20,5 +20,5 @@ if(age < 18){
 }
 
 //output
-document.getElementById("price").innerHTML= (price).toFixed(2);
+document.getElementById("price").innerHTML= (price).toFixed(2) + "€";
 
